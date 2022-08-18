@@ -1,1 +1,1 @@
-React_Expandable_Table_Exmp
+React Expandable Table Component
