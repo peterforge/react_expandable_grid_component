@@ -1,2 +1,1 @@
-# React-table-v7-example
-Created with CodeSandbox
+React_Expandable_Table_Exmp
